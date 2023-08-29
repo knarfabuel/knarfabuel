@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002 <br>📚 I'm currently learning Programming Languages<br>🎯 Goals: to be succecful<br>🎲 Fun fact: Voltes V</p>
+<p align="left">✨ Creating bugs since 2002 <br>📚 I'm currently learning Programming Languages<br>🎯 Goals: to be succecful<br>🎲 Fun fact: Introvert</p>
 
 ###
